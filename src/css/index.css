@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.logo {
+    font-size: 1.6rem;
+    color: white;
+}
+
+header {
+    background-color: transparent;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    gap: 40rem;
+}
+
+nav a {
+    color: white;
+    padding: 10px;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
